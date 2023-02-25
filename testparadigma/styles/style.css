@@ -575,7 +575,7 @@ nav a:hover {
     display: none;
 }
 
-@media (max-width: 320px) {
+@media (max-width: 992px) {
     html {
         font-size: 10px;
     }
