@@ -1,1 +1,1 @@
-# genabliznecov.github.io
+# genabliznecov.github.io/testparadigma
